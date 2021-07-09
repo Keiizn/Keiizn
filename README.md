@@ -10,4 +10,4 @@
 
 📫 Contact : contact@keiizn.com | Discord : Keiizn#9696
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/751729342152835123)](https://discord.com/users/751729342152835123)
+
