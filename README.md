@@ -10,7 +10,4 @@
 
 📫 Contact : contact@keiizn.com | Discord : Keiizn#9696
 
-
-
-Tools:
-:angularjs: bootstrap docker electron express firebase flask graphql heroku javascript mongodb mysql nodejs php postman python react reactnative symfony typescript vuejs xd
+href="https://discord.com/users/751729342152835123"
