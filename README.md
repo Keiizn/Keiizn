@@ -8,4 +8,9 @@
 
 🤝 I am a communication student, i’m studying at INFOCOM Besançon
 
-📫 Contact : contact@keiizn.com
+📫 Contact : contact@keiizn.com | Discord : Keiizn#9696
+
+
+
+Tools:
+:angularjs: bootstrap docker electron express firebase flask graphql heroku javascript mongodb mysql nodejs php postman python react reactnative symfony typescript vuejs xd
