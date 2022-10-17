@@ -1,8 +1,8 @@
 👨‍🎓 Hello, i'm Keiizn ! 
 
-🤝 I am a communication student, i’m studying at INFOCOM Besançon
+🤝 I am a developper student, i’m studying at MMI Montbéliard / Licence Professionel Webdesign
 
-🟠 I'm staff at [Notify France](https://twitter.com/notifyfrance)
+🟠 I'm staff at [Notify France](https://twitter.com/notifyfrance) and reshipper for [ReshippingAIO](https://twitter.com/reshipaio)
 
 📫 Contact : contact@keiizn.com | Discord : Keiizn#9696
 
