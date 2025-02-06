@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dimitri (or Keiizn) and I'm from France</h2>
+<h2 align="left">Hi 👋 ! My name is Dimitri (or Keiizn) and I'm from France</h2>
 
 ###
 # 📊 GitHub Stats:
